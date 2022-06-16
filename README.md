@@ -1,6 +1,6 @@
 <h2 align="center">
 Greetings, I am Kevin Bugusky
- <img src="https://raw.githubusercontent.com/K-Bugz/K-Bugz/main/assets/<gif name here>" width="4%">
+ <img src="https://raw.githubusercontent.com/K-Bugz/K-Bugz/main/assets/PickaHello.gif" width="4%">
 </h2>
 <h3 align="center">
 From Math & CS Educator 🏫 to to Full-Stack Web Developer 💻!!!
