@@ -6,9 +6,9 @@ Greetings, I am Kevin Bugusky
 From Math & CS Educator 🏫 to to Full-Stack Web Developer 💻!!!
 </br>
 </br>
-<a href="https://www.linkedin.com/in/kevinbugusky333454/" target="blank"><img style="width:60px;" src="./assets/linkedinblue.png" /></a>&ensp;&ensp;
+<a href="https://www.linkedin.com/in/kevinbugusky333454/" target="blank"><img style="width:80px;" src="./assets/linkedinblue.png" /></a>&ensp;&ensp;
 <a href="mailto:kbugusky@gmail.com" target="blank"><img style="width:60px;" src="./assets/gmailred.png" /></a>&ensp;&ensp;
-<a href="https://k-bugz.github.io/ReactPortfolio/" target="blank"><img style="width:60px;" src="./assets/K-Bugz.png" /></a>
+<a href="https://k-bugz.github.io/ReactPortfolio/" target="blank"><img style="width:80px;" src="./assets/K-Bugz.png" /></a>
 </br>
 <img src="https://raw.githubusercontent.com/K-Bugz/K-Bugz/main/assets/BearsMeh.gif" width="15%">
 <img src="https://raw.githubusercontent.com/K-Bugz/K-Bugz/main/assets/cloudff7.gif" width="15%">
