@@ -1,6 +1,6 @@
 <h2 align="center">
 Greetings, I am Kevin Bugusky
- <img src="https://raw.githubusercontent.com/K-Bugz/K-Bugz/main/assets/PickaHello.gif" width="20%">
+ <img src="https://raw.githubusercontent.com/K-Bugz/K-Bugz/main/assets/PickaHello.gif" width="9%">
 </h2>
 <h3 align="center">
 From Math & CS Educator 🏫 to to Full-Stack Web Developer 💻!!!
@@ -10,9 +10,9 @@ From Math & CS Educator 🏫 to to Full-Stack Web Developer 💻!!!
 <a href="mailto:kbugusky@gmail.com" target="blank"><img style="width:60px;" src="./assets/gmailred.png" /></a>&ensp;&ensp;
 <a href="https://k-bugz.github.io/ReactPortfolio/" target="blank"><img style="width:60px;" src="./assets/K-Bugz.png" /></a>
 </br>
-<img src="https://raw.githubusercontent.com/K-Bugz/K-Bugz/main/assets/<gif name here>" width="15%">
-<img src="https://raw.githubusercontent.com/K-Bugz/K-Bugz/main/assets/<gif name here>" width="15%">
-<img src="https://raw.githubusercontent.com/K-Bugz/K-Bugz/main/assets/<gif name here>" width="15%">
+<img src="https://raw.githubusercontent.com/K-Bugz/K-Bugz/main/assets/BearsMeh.gif" width="15%">
+<img src="https://raw.githubusercontent.com/K-Bugz/K-Bugz/main/assets/cloudff7.gif" width="15%">
+<img src="https://raw.githubusercontent.com/K-Bugz/K-Bugz/main/assets/R&M.gif" width="15%">
 <img src="https://raw.githubusercontent.com/K-Bugz/K-Bugz/main/assets/<gif name here>" width="15%">
 </h3> 
 
