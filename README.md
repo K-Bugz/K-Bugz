@@ -37,9 +37,7 @@ From Math & CS Educator 🏫 to to Full-Stack Web Developer 💻!!!
 <img src="https://github-readme-stats.vercel.app/api?username=K-Bugz&theme=nightowl&show_icons=true&hide=stars&count_private=true">
 </p>
 
-
-
-<!--
-https://raw.githubusercontent.com/<User>/<Repository>/<branch>/<path/to/gif>
-
-**K-Bugz/K-Bugz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/K-Bugz/count.svg" />
+</p>
